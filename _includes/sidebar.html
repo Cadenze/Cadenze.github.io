@@ -37,7 +37,7 @@
       </a>
     {% endif %}
 </div>
-<div id="contact-list" style="text-align:center">
+<!-- <div id="contact-list" style="text-align:center">
     {% if site.author.goodreads %}
       <a href="https://goodreads.com/{{ site.author.goodreads }}">
         <span class="fa-stack fa-lg">
@@ -62,8 +62,26 @@
       </span>
     </a>
     {% endif %}
-</div>
+</div> -->
 <div id="contact-list" style="text-align:center">
+    {% if site.author.linkedin %}
+      <a href="https://linkedin.com/in/{{ site.author.linkedin }}">
+        <span class="fa-stack fa-lg">
+          <i class="fa fa-square-o fa-stack-2x"></i>
+          <i class="fa fa-linkedin fa-stack-1x"></i>
+        </span>
+      </a>
+    {% endif %}
+
+    {% if site.author.discord %}
+      <a href="{{ site.author.linkedin }}">
+        <span class="fa-stack fa-lg">
+          <i class="fa fa-square-o fa-stack-2x"></i>
+          <i class="fa fa-discord fa-stack-1x"></i>
+        </span>
+      </a>
+    {% endif %}
+
     {% if site.author.email %}
       <a href="mailto:{{ site.author.email }}">
         <span class="fa-stack fa-lg">
@@ -72,12 +90,14 @@
         </span>
       </a>
     {% endif %}
+    <!--
     <a href="{{ site.BASE_PATH }}/atom.xml">
-      <span class="fa-stack fa-lg">
+    <span class="fa-stack fa-lg">
         <i class="fa fa-square-o fa-stack-2x"></i>
         <i class="fa fa-rss fa-stack-1x"></i>
-      </span>
+    </span>
     </a>
+    -->
 </div>
 
   <div class="sidebar-item">
