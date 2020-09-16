@@ -1,16 +1,37 @@
 ---
 layout: default
-title: Home
+title: Blog
 ---
 
-<div class="img">
-    <img src="/assets/glam.jpg" width="250" height="250"/>
+<div class="posts">
+  {% for post in paginator.posts %}
+  <div class="post">
+    <h1 class="post-title">
+      <a href="{{ post.url | absolute_url }}">
+        {{ post.title }}
+      </a>
+    </h1>``
+
+    <span class="post-date">{{ post.date | date_to_string }}</span>
+
+    {{ post.content }}
+  </div>
+  {% endfor %}
 </div>
 
-<!-- <p><a href="http://www.md.utoronto.ca/current-student-biographies">MD-PhD student</a> at <a href="http://www.utoronto.ca/">The University of Toronto</a>.</p> -->
-
-<p>A scientist, a musician, and a normal student discovering their aspirations. I can usually be found at <a href="https://discord.gg/eTtJwKJ">my discord server</a>.</p>
-
-<p>All my refined stuff stays on this page, while my unadulterated thoughts go <a href="{{site.baseurl}}/blog">here</a>.</p>
-
-<p></p>
+<div class="pagination">
+  {% if paginator.next_page %}
+    <a class="pagination-item older" href="{{ paginator.next_page_path | absolute_url }}">Older</a>
+  {% else %}
+    <span class="pagination-item older">Older</span>
+  {% endif %}
+  {% if paginator.previous_page %}
+    {% if paginator.page == 2 %}
+      <a class="pagination-item newer" href="{{ '/' | absolute_url }}">Newer</a>
+    {% else %}
+      <a class="pagination-item newer" href="{{ paginator.previous_page_path | absolute_url }}">Newer</a>
+    {% endif %}
+  {% else %}
+    <span class="pagination-item newer">Newer</span>
+  {% endif %}
+</div>
