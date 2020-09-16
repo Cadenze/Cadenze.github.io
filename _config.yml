@@ -1,28 +1,22 @@
-# Dependencies
-# markdown:         kramdown
-# highlighter:      rouge # changed from `pygments` as github says so
-
-# Permalinks
-permalink:        pretty
-
 # Setup
-title:            'Cadenze'
-tagline:          'aka Boris Li'
-description:      'Look to the past, and see further for the future.'
-url:              http://www.cadenze.ca
-baseurl:          ''
-paginate:         5
-paginate_path:    '/blog/page:num/'
+title:               Lanyon
+tagline:             'A Jekyll theme'
+description:         'A reserved <a href="https://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+url:                 http://www.cadenze.ca
+baseurl:             ''
+paginate:            5
+permalink:           pretty
 
+# About/contact
 author:
-  name: 'Boris Li'
-  email: 'borisowenli[at]gmail[dot]com'
-  github: Cadenze
+  name:              Mark Otto
+  url:               https://twitter.com/mdo
+  email:             markdotto@gmail.com
 
+# Gems
+plugins:
+  - jekyll-paginate
 
-
-
-
-  # google_analytics_id: UA-27104497-1
-  # google_analytics_url: 
-  bio: UBC Science Student
+# Custom vars
+version:             1.1.0
+google_analytics_id: #UA-XXXX-Y
