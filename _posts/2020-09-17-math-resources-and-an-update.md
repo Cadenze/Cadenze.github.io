@@ -17,20 +17,20 @@ Speaking of the resources page, if you happen to visit the site yesterday, you m
     * AP Calculus AB and BC notes,
     * A header to indicate my imminent physics notes, and
     * Potentially enough space to accomodate my music files, if they do appear;
-2. An updated about page with a short biography; and
-3. A small fix to my LinkedIn hyperlink, so it actually works.
+2. An updated about page with a short biography;
+3. A rose colour to replace the teal; and
+4. A small fix to my LinkedIn hyperlink, so it actually works.
 
 ## To-do list
 
 Even with these updates, the website is not complete. In the near future, I would like to:
-1. Replace the teal with a rose colour;
-2. Make a more detailed about page;
-3. Upload to resources
-    a. my physics notes,
-    b. my music recordings over the summer, and
-    c. my earlier compositions;
-4. (Potentially) a redesigned landing page that looks less cluttered;
-5. (Potentially) more links to my Instagram, Youtube, and Twitter; and
-6. (Hopefully) a new redesigned icon based on the dome that is on the sidebar.
+1. Make a more detailed about page;
+2. Upload to resources
+    * my physics notes,
+    * my music recordings over the summer, and
+    * my earlier compositions;
+3. (Potentially) a redesigned landing page that looks less cluttered;
+4. (Potentially) more links to my Instagram, Youtube, and Twitter; andS
+5. (Hopefully) a new redesigned icon based on the dome that is on the sidebar.
 
 Okay, now back to work. Lemme actually push those updates out.
