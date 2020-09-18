@@ -431,17 +431,6 @@ a.pagination-item:hover {
  * Based on colors from Base16: http://chriskempson.github.io/base16/#default.
  */
 
-/* Rose */
-.theme-base-07 .sidebar,
-.theme-base-07 .sidebar-toggle:active,
-.theme-base-07 #sidebar-checkbox:checked ~ .sidebar-toggle {
-  background-color: #ffaaaa;
-}
-.theme-base-07 .container a,
-.theme-base-07 .sidebar-toggle,
-.theme-base-07 .related-posts li a:hover {
-  color: #ffaaaa;
-}
 
 /* Red */
 .theme-base-08 .sidebar,
@@ -537,6 +526,18 @@ a.pagination-item:hover {
 .theme-base-0f .sidebar-toggle,
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
+}
+
+/* Rose */
+.theme-base-10 .sidebar,
+.theme-base-10 .sidebar-toggle:active,
+.theme-base-10 #sidebar-checkbox:checked ~ .sidebar-toggle {
+  background-color: #ffaaaa;
+}
+.theme-base-10 .container a,
+.theme-base-10 .sidebar-toggle,
+.theme-base-10 .related-posts li a:hover {
+  color: #ffaaaa;
 }
 
 
