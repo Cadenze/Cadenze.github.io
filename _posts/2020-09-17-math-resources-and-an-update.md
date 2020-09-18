@@ -29,7 +29,8 @@ Even with these updates, the website is not complete. In the near future, I woul
     a. my physics notes,
     b. my music recordings over the summer, and
     c. my earlier compositions;
-4. (Potentially) a redesigned landing page that looks less cluttered; and
-5. (Potentially) more links to my Instagram, Youtube, and Twitter.
+4. (Potentially) a redesigned landing page that looks less cluttered;
+5. (Potentially) more links to my Instagram, Youtube, and Twitter; and
+6. (Hopefully) a new redesigned icon based on the dome that is on the sidebar.
 
 Okay, now back to work. Lemme actually push those updates out.
