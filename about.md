@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-<p class="message">
+<p class="message" style="text-align:center">
     "Look to the past, and see further for the future."
 </p>
 
@@ -13,4 +13,4 @@ Beside science, I also consider myself a musician. I am a violinist and a compos
 
 ## Science
 
-## Music
+## Music 
