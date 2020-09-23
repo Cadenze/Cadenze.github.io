@@ -13,4 +13,10 @@ Beside science, I also consider myself a musician. I am a violinist and a compos
 
 ## Science
 
+I am hoping to major in Combined Honours for Mathematics and Physics. I do not know what I can do with a degree like that, but I am sure there will be plenty of opportunities along the way. For now, I am in pursuit of knowledge for the sake of learning.
+
 ## Music
+
+I have played violin since the age of 5, and have over 9 years worth of experience in different youth orchestras. A holder of Diploma ABRSM and Trinity College Licentiate in violin performance, I have had multiple opportunities to perform publicly with the PanAsia Symphony Orchestra. Through the Collegium program at the Victoria Conservatory of Music, I have experience in ensemble playing, and am a two-time provincial champion at the Performing Arts BC Provincial Festival with my chamber group.
+
+Currently, I am learning composition at the School of Music in UBC. I will soon post some of my recordings and scores on this website. Stay tuned!
