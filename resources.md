@@ -25,7 +25,7 @@ Covers:
 
 ## Physics
 
-#### [Physics C: Mechanics review](/files/PhysCMech.pdf)
+#### [AP Physics C: Mechanics review](/files/PhysCMech.pdf)
 
 Covers:
 
@@ -34,7 +34,7 @@ Covers:
 3. Energy and Momentum
 4. Circular and Rotational Motion
 
-#### [Physics C: Electricity & Magnetism review](/files/PhysCMech.pdf)
+#### [AP Physics C: Electricity & Magnetism review](/files/PhysCMech.pdf)
 
 Covers:
 
