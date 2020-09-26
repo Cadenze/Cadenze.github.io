@@ -30,7 +30,7 @@ Even with these updates, the website is not complete. In the near future, I woul
     * my music recordings over the summer, and
     * my earlier compositions;
 3. (Potentially) a redesigned landing page that looks less cluttered;
-4. (Potentially) more links to my Instagram, Youtube, and Twitter; andS
+4. (Potentially) more links to my Instagram, Youtube, and Twitter; and
 5. (Hopefully) a new redesigned icon based on the dome that is on the sidebar.
 
 Okay, now back to work. Lemme actually push those updates out.
