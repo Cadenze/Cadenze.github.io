@@ -20,7 +20,8 @@
     {% endif %}
 
 </div>
-<!-- <div id="contact-list" style="text-align:center">
+<div id="contact-list" style="text-align:center">
+    <!--
     {% if site.author.goodreads %}
       <a href="https://goodreads.com/{{ site.author.goodreads }}">
         <span class="fa-stack fa-lg">
@@ -29,31 +30,24 @@
         </span>
       </a>
     {% endif %}
-    {% if site.author.orcid %}
-      <a href="{{ site.author.orcid }}">
-        <span class="fa-stack fa-lg">
-          <i class="fa fa-square-o fa-stack-2x"></i>
-          <i class="fa fa-user-md fa-stack-1x"></i>
-        </span>
-      </a>
-    {% endif %}
-    {% if site.author.google_scholar %}
-    <a href="{{ site.author.google_scholar }}">
+    -->
+
+    {% if site.author.discord %}
+    <a href="{{ site.author.discord }}">
       <span class="fa-stack fa-lg">
         <i class="fa fa-square-o fa-stack-2x"></i>
-        <i class="fa fa-google fa-stack-1x"></i>
+        <i class="fab fa-discord fa-stack-1x"></i>
       </span>
     </a>
     {% endif %}
-</div> -->
-<div id="contact-list" style="text-align:center">
-    {% if site.author.linkedin %}
-      <a href="https://linkedin.com/in/{{ site.author.linkedin }}">
-        <span class="fa-stack fa-lg">
-          <i class="fa fa-square-o fa-stack-2x"></i>
-          <i class="fa fa-linkedin fa-stack-1x"></i>
-        </span>
-      </a>
+
+    {% if site.author.instagram %}
+    <a href="https://instagram.com/{{ site.author.instagram }}">
+      <span class="fa-stack fa-lg">
+        <i class="fa fa-square-o fa-stack-2x"></i>
+        <i class="fab fa-instagram fa-stack-1x"></i>
+      </span>
+    </a>
     {% endif %}
 
     {% if site.author.twitter %}
@@ -66,15 +60,34 @@
     {% endif %}
 
     <!--
-    {% if site.author.discord %}
-      <a href="{{ site.author.discord }}">
+    {% if site.author.orcid %}
+      <a href="{{ site.author.orcid }}">
         <span class="fa-stack fa-lg">
           <i class="fa fa-square-o fa-stack-2x"></i>
-          <i class="fa fa-discord fa-stack-1x"></i>
+          <i class="fa fa-user-md fa-stack-1x"></i>
         </span>
       </a>
     {% endif %}
+
+    {% if site.author.google_scholar %}
+    <a href="{{ site.author.google_scholar }}">
+      <span class="fa-stack fa-lg">
+        <i class="fa fa-square-o fa-stack-2x"></i>
+        <i class="fa fa-google fa-stack-1x"></i>
+      </span>
+    </a>
+    {% endif %}
     -->
+</div>
+<div id="contact-list" style="text-align:center">
+    {% if site.author.linkedin %}
+      <a href="https://linkedin.com/in/{{ site.author.linkedin }}">
+        <span class="fa-stack fa-lg">
+          <i class="fa fa-square-o fa-stack-2x"></i>
+          <i class="fa fa-linkedin fa-stack-1x"></i>
+        </span>
+      </a>
+    {% endif %}
 
     {% if site.author.email %}
       <a href="mailto:{{ site.author.email }}">
