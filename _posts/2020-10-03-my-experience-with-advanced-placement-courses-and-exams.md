@@ -3,7 +3,7 @@ layout: post
 title: My Experience with Advanced Placement Courses and Exams
 ---
 
-The mood of the week so far has been, well, "academic". First off, I had to choose my term 1 project this Tuesday, and I willingly chose to study Perelman's proof (parts [1](https://arxiv.org/abs/math/0211159) | [2](https://arxiv.org/abs/math/0303109) | [3](https://arxiv.org/abs/math/0307245)) of the [Poincaré Conjecture](https://en.wikipedia.org/wiki/Poincaré_conjecture); secondly, I willingly used part of my Friday to learn about the [Euler-Lagrange equation](https://en.wikipedia.org/wiki/Euler–Lagrange_equation) (albeit a version for dummies, thank you, Morgan); so it would only be normal for me to finish this week by talking about APs.
+The mood of the week so far has been, well, "academic". First off, I had to choose my term 1 project this Tuesday, and I willingly chose to study Perelman's proof (parts [1](https://arxiv.org/abs/math/0211159) \| [2](https://arxiv.org/abs/math/0303109) \| [3](https://arxiv.org/abs/math/0307245)) of the [Poincaré Conjecture](https://en.wikipedia.org/wiki/Poincaré_conjecture); secondly, I willingly used part of my Friday to learn about the [Euler-Lagrange equation](https://en.wikipedia.org/wiki/Euler–Lagrange_equation) (albeit a version for dummies, thank you, Morgan); so it would only be normal for me to finish this week by talking about APs.
 
 ## The Rationale for Taking APs
 
