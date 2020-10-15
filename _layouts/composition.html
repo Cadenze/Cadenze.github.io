@@ -1,0 +1,9 @@
+---
+layout: default
+---
+
+<div class="composition">
+  <h1 class="composition-title">{{ .title }}</h1>
+  <span class="composition-date">{{ page.date | date_to_string }}</span>
+  {{ content }}
+</div>
