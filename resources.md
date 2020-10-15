@@ -7,7 +7,7 @@ A list of resources can be found here.
 
 ## Mathematics
 
-#### [AP Calculus AB review](/files/CalcAB.pdf)
+#### [AP Calculus AB review](/files/resources/CalcAB.pdf)
 
 Covers:
 
@@ -15,7 +15,7 @@ Covers:
 2. Differential Calculus
 3. Integral Calculus
 
-#### [AP Calculus BC review](/files/CalcBC.pdf)
+#### [AP Calculus BC review](/files/resources/CalcBC.pdf)
 
 Covers:
 
@@ -25,7 +25,7 @@ Covers:
 
 ## Physics
 
-#### [AP Physics C: Mechanics review](/files/PhysCMech.pdf)
+#### [AP Physics C: Mechanics review](/files/resources/PhysCMech.pdf)
 
 Covers:
 
@@ -34,7 +34,7 @@ Covers:
 3. Energy and Momentum
 4. Circular and Rotational Motion
 
-#### [AP Physics C: Electricity & Magnetism review](/files/PhysCMech.pdf)
+#### [AP Physics C: Electricity & Magnetism review](/files/resources/PhysCMech.pdf)
 
 Covers:
 
