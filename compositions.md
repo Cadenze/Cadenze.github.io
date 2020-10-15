@@ -3,6 +3,8 @@ layout: default
 title: Compositions
 ---
 
+# Compositions
+
 Not much is going on here as of now, but congratulations for finding this page.
 
 ## 2020
