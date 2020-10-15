@@ -3,6 +3,8 @@ layout: default
 title: Changelog
 ---
 
+# Changelog
+
 This changelog is manually updated.
 
 ## 2020
