@@ -7,6 +7,8 @@ title: Compositions
 
 Not much is going on here as of now, but congratulations for finding this page.
 
+This is where I'll be posting my progress in composition.
+
 ## 2020
 
 * [Waltz for Solo Violin](/compositions/waltz-violin)
