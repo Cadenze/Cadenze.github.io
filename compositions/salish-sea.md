@@ -3,6 +3,8 @@ layout: composition
 title: "Salish Sea" Sonata for Piano and Viola
 ---
 
+# "Salish Sea" Sonata for Piano and Viola
+
 A work commissioned by Rae Gallimore and Barry Tan for their West Coast Concert series.
 
 Movements:
@@ -17,13 +19,13 @@ Movements:
 *First movement only*
 
 Sheet music:
-* [Full Score](\files\music\salish-sea-premiere-fullscore.pdf)
-* [Viola Part](\files\music\salish-sea-premiere-viola.pdf)
+* [Full Score](/files/music/salish-sea-premiere-fullscore.pdf)
+* [Viola Part](/files/music/salish-sea-premiere-viola.pdf)
 
 Recording:
 
 <audio controls>
-    <source src="salish-sea-premiere.mp3" type="audio/mpeg">
+    <source src="/files/music/salish-sea-premiere.mp3" type="audio/mpeg">
 </audio>
 
 Salt Spring Island, January 5th, 2020
