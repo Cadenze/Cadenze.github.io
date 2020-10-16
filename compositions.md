@@ -7,7 +7,7 @@ title: Compositions
 
 Not much is going on here as of now, but congratulations for finding this page.
 
-This is where I'll be posting my progress in composition.
+This is where I'll be posting my progress in music composition.
 
 ## 2020
 
