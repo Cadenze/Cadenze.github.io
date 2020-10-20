@@ -11,4 +11,5 @@ Sheet music:
 * [Full Score](/files/music/waltz-violin.pdf)
 
 Recording:
-*Coming soon*
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nvYeRTUUH-A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
