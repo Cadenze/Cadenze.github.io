@@ -34,7 +34,7 @@ Covers:
 3. Energy and Momentum
 4. Circular and Rotational Motion
 
-#### [AP Physics C: Electricity & Magnetism review](/files/resources/PhysCMech.pdf)
+#### [AP Physics C: Electricity & Magnetism review](/files/resources/PhysCEM.pdf)
 
 Covers:
 
