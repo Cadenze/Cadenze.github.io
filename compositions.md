@@ -11,6 +11,7 @@ This is where I'll be posting my progress in music composition.
 
 ## 2020
 
+* [Fugue for Solo Piano](/compositions/12-fugue-piano)
 * [Waltz for Solo Violin](/compositions/waltz-violin)
 * ["Salish Sea" Sonata for Piano and Viola](/compositions/salish-sea)
 
