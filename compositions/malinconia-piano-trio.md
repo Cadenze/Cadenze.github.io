@@ -7,7 +7,9 @@ For performers only.
 
 ### Work in Progress
 
-17 Nov 2020
+25 Nov 2020
+
+First Draft.
 
 Sheet music:
 * [Full Score](/files/music/malinconia-piano-trio-fullscore.pdf)
