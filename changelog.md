@@ -9,6 +9,7 @@ This changelog is manually updated.
 
 ## 2020
 
+* 01 December - Composition page goes visible.
 * 17 November - Composition posts finally show their title.
 * 14 October - Compositions page is up, but still hidden.
 * 03 October - Atom is finally working, I dunno what I fixed though; sidebar icons updated to FontAwesome 5.

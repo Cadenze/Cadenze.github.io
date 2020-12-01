@@ -1,16 +1,15 @@
 ---
-layout: default
+layout: page
 title: Compositions
 ---
 
 # Compositions
 
-Not much is going on here as of now, but congratulations for finding this page.
-
-This is where I'll be posting my progress in music composition.
+This is where I'll be posting my progress in music composition. So far, this is all my polished work.
 
 ## 2020
 
+* [Malinconia in D-Flat Major for Piano Trio](/compositions/malinconia-piano-trio)
 * [Fugue for Solo Piano](/compositions/12-fugue-piano)
 * [Waltz for Solo Violin](/compositions/waltz-violin)
 * ["Salish Sea" Sonata for Piano and Viola](/compositions/salish-sea)
