@@ -20,7 +20,7 @@ The Poincaré Conjecture, first posed by Henri Poincaré in 1904, is a problem i
 
 A topological manifold in the *n*th dimension is said to “locally look like” a Euclidean space in the same dimension (Lee, 2012, p. 1). In essence, a 2-manifold “looks like” a 2-dimensional plane locally; for example, when examined at a close distance, the surface of the Earth seems flat, and therefore it is a 2-manifold. A 3-manifold, by analogy, should “look like” 3-dimensional space locally; for example, outer space can be considered a 3-manifold.
 
-<video controls width="250">
+<video controls width="350">
     <source src="/assets/manifold.mp4"
             type="video/mp4">
     Sorry, your browser doesn't support embedded videos.
@@ -28,7 +28,7 @@ A topological manifold in the *n*th dimension is said to “locally look like”
 
 Compactness implies a manifold is closed and bounded (Lee, 2011, p. 85). A piece of paper with negligible thickness is not compact, because there are edges; however, the surface of a sphere is considered compact, since there are no edges.
 
-<video controls width="250">
+<video controls width="350">
     <source src="/assets/closed.mp4"
             type="video/mp4">
     Sorry, your browser doesn't support embedded videos.
@@ -36,11 +36,11 @@ Compactness implies a manifold is closed and bounded (Lee, 2011, p. 85). A piece
 
 A closed curve deforming into a point can be thought as wrapping a rubber band around the surface of sphere. If we tighten that rubber band, it will glide along the surface, reducing the area inside it, and eventually tightening to a point. However, if we loop that same rubber band around a doughnut, passing through the hole, we cannot tighten that rubber band to a point without destroying the doughnut (Figure 1).
 
-<img src="/assets/torus.png" alt="A doughnut is not closed because it has holes" width="240" />
+<img src="/assets/torus.png" alt="A doughnut is not closed because it has holes" width="350" />
 
 Homeomorphism is a continuous process that maps an object to another (Lee, 2011, p. 28). If a manifold can be stretched and deformed into another manifold without punching extra holes in it, they are homeomorphic to each other. In Figure 2, since both a coffee mug and a doughnut have exactly one hole, they are homeomorphic to each other.
 
-<video controls width="250">
+<video controls width="350">
     <source src="/assets/homeomorphic.mp4"
             type="video/mp4">
     Sorry, your browser doesn't support embedded videos.
@@ -62,7 +62,7 @@ Enter Grigori Perelman. Perelman is a Russian mathematician who, unlike many oth
 
 In his first paper, Perelman summarized the use of Ricci flow in reducing closed manifolds. Ricci flow is most often presented as a differential equation
 
-<img src="/assets/ricci-flow.png" alt="The derivative of g is -2 times R" width="240" />
+<img src="/assets/ricci-flow.png" alt="The derivative of g is -2 times R" width="240" class="center"/>
 
 where g is a Riemannian metric, and R is the Ricci curvature (Perelman, 2002). For every point, the metric outputs a scalar number that describes the curvature and dictates how it should stretch or shrink; just as how a tangent line describes the slope and dictates how functions change. Ricci curvature expresses the curvature of the manifold in terms of the metric. The equation essentially states the change of the metric is proportional to the curvature. When a region is concave, Ricci curvature is negative, Ricci flow inflates it, and the metric increases; conversely, when a region is convex, Ricci curvature is positive, Ricci flow deflates it, and the metric decreases. A sphere has positive curvature everywhere, and will therefore always deform into a single point (Figure 3); if any manifold that undergoes Ricci flow deform into a point, then it must be homeomorphic to a sphere. However, in higher dimensions, Ricci flow sometimes fails and creates singularities  (points that are not differentiable) before a single point is produced (Figure 4) (Milnor, 2004).
 
