@@ -12,7 +12,7 @@ I swear, this is my final post about the Conjecture. I have had enough topology 
 </h2>
 <p style="text-align:center">
     A Brief Overview of the Poincaré Conjecture and Perelman's Solution
-<p>
+</p>
 
 ## The Conjecture
 
