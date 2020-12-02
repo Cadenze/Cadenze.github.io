@@ -34,11 +34,11 @@ Compactness implies a manifold is closed and bounded (Lee, 2011, p. 85). A piece
     Sorry, your browser doesn't support embedded videos.
 </video>
 
-A closed curve deforming into a point can be thought as wrapping a rubber band around the surface of sphere. If we tighten that rubber band, it will glide along the surface, reducing the area inside it, and eventually tightening to a point. However, if we loop that same rubber band around a doughnut, passing through the hole, we cannot tighten that rubber band to a point without destroying the doughnut (Figure 1).
+A closed curve deforming into a point can be thought as wrapping a rubber band around the surface of sphere. If we tighten that rubber band, it will glide along the surface, reducing the area inside it, and eventually tightening to a point. However, if we loop that same rubber band around a doughnut, passing through the hole, we cannot tighten that rubber band to a point without destroying the doughnut.
 
 <img src="/assets/torus.png" alt="A doughnut is not closed because it has holes" width="350" />
 
-Homeomorphism is a continuous process that maps an object to another (Lee, 2011, p. 28). If a manifold can be stretched and deformed into another manifold without punching extra holes in it, they are homeomorphic to each other. In Figure 2, since both a coffee mug and a doughnut have exactly one hole, they are homeomorphic to each other.
+Homeomorphism is a continuous process that maps an object to another (Lee, 2011, p. 28). If a manifold can be stretched and deformed into another manifold without punching extra holes in it, they are homeomorphic to each other. In a classic example, since both a coffee mug and a doughnut have exactly one hole, they are homeomorphic to each other.
 
 <video controls width="350">
     <source src="/assets/homeomorphic.mp4"
@@ -64,7 +64,7 @@ In his first paper, Perelman summarized the use of Ricci flow in reducing closed
 
 <img src="/assets/ricci-flow.png" alt="The derivative of g is -2 times R" width="240" class="center"/>
 
-where g is a Riemannian metric, and R is the Ricci curvature (Perelman, 2002). For every point, the metric outputs a scalar number that describes the curvature and dictates how it should stretch or shrink; just as how a tangent line describes the slope and dictates how functions change. Ricci curvature expresses the curvature of the manifold in terms of the metric. The equation essentially states the change of the metric is proportional to the curvature. When a region is concave, Ricci curvature is negative, Ricci flow inflates it, and the metric increases; conversely, when a region is convex, Ricci curvature is positive, Ricci flow deflates it, and the metric decreases. A sphere has positive curvature everywhere, and will therefore always deform into a single point (Figure 3); if any manifold that undergoes Ricci flow deform into a point, then it must be homeomorphic to a sphere. However, in higher dimensions, Ricci flow sometimes fails and creates singularities  (points that are not differentiable) before a single point is produced (Figure 4) (Milnor, 2004).
+where g is a Riemannian metric, and R is the Ricci curvature (Perelman, 2002). For every point, the metric outputs a scalar number that describes the curvature and dictates how it should stretch or shrink; just as how a tangent line describes the slope and dictates how functions change. Ricci curvature expresses the curvature of the manifold in terms of the metric. The equation essentially states the change of the metric is proportional to the curvature. When a region is concave, Ricci curvature is negative, Ricci flow inflates it, and the metric increases; conversely, when a region is convex, Ricci curvature is positive, Ricci flow deflates it, and the metric decreases. A sphere has positive curvature everywhere, and will therefore always deform into a single point; if any manifold that undergoes Ricci flow deform into a point, then it must be homeomorphic to a sphere. However, in higher dimensions, Ricci flow sometimes fails and creates singularities  (points that are not differentiable) before a single point is produced (Milnor, 2004).
 
 <video controls width="250">
     <source src="/assets/ricci-sphere.mp4"
@@ -72,7 +72,7 @@ where g is a Riemannian metric, and R is the Ricci curvature (Perelman, 2002). F
     Sorry, your browser doesn't support embedded videos.
 </video>
 
-The second paper addresses these singularities and introduces a method to bypass them. Called Ricci flow with surgery, Perelman proved that all singularities can be cut and replaced with spherical caps (Figure 5), and then restarting Ricci flow on the resulting two manifolds (Perelman, 2003a). If the resulting two manifolds tend to a single point, then they must be homeomorphic to two spheres, and two spheres connected must also be homeomorphic to a single sphere.
+The second paper addresses these singularities and introduces a method to bypass them. Called Ricci flow with surgery, Perelman proved that all singularities can be cut and replaced with spherical caps, and then restarting Ricci flow on the resulting two manifolds (Perelman, 2003a). If the resulting two manifolds tend to a single point, then they must be homeomorphic to two spheres, and two spheres connected must also be homeomorphic to a single sphere.
 
 <video controls width="250">
     <source src="/assets/surgery.mp4"
