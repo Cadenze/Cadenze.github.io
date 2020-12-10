@@ -26,7 +26,7 @@ Recording:
     <source src="/files/music/salish-sea-premiere.mp3" type="audio/mpeg">
 </audio>
 
-Salt Spring Island, January 5th, 2020
+Salt Spring Island, January 5, 2020
 * Viola: Rae Gallimore
 * Piano: Barry Tan
 

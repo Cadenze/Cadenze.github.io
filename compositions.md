@@ -3,7 +3,7 @@ layout: page
 title: Compositions
 ---
 
-This is where I'll be posting my progress in music composition. So far, this is all my polished work.
+This is where I'll be posting my progress in music composition. So far, this is all my (semi-)polished work.
 
 ## 2020
 
