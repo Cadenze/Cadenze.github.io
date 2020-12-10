@@ -15,3 +15,15 @@ Sheet music:
 * [Full Score](/files/music/malinconia-piano-trio-fullscore.pdf)
 * [Violin](/files/music/malinconia-piano-trio-violin.pdf)
 * [Cello](/files/music/malinconia-piano-trio-cello.pdf)
+
+Recording:
+
+<audio controls>
+    <source src="/files/music/malinconia-piano-trio.wav" type="audio/wav">
+    <source src="/files/music/malinconia-piano-trio.mp3" type="audio/mpeg">
+</audio>
+
+Victoria, BC, December 8, 2020
+* Violin: Marcus Coetzee
+* Cello: Lexie Krakowski
+* Piano: Charlie Dutton
