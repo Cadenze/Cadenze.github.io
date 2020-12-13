@@ -1,6 +1,6 @@
 ---
 layout: composition
-title: "Salish Sea" Sonata for Piano and Viola
+title: Salish Sea Sonata for Piano and Viola
 ---
 
 A work commissioned by Rae Gallimore and Barry Tan for their West Coast Concert series.
