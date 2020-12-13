@@ -7,8 +7,6 @@ A piano trio, dedicated to Marcus Coetzee, Lexie Krakowski, and Charlie Dutton; 
 
 This is also my third and final project in my very first term of a composition class, as an exercise in writing polyphony and counterpoint for a small chamber ensemble.
 
-Recording to be made available soon (pending performers' approval).
-
 ### Premiere Edition
 
 Sheet music:
@@ -17,6 +15,8 @@ Sheet music:
 * [Cello](/files/music/malinconia-piano-trio-cello.pdf)
 
 Recording:
+
+*If the performers wish to take down this recording, please contact me.*
 
 <audio controls>
     <source src="/files/music/malinconia-piano-trio.wav" type="audio/wav">
