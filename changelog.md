@@ -7,6 +7,10 @@ title: Changelog
 
 This changelog is manually updated.
 
+## 2021
+
+* 06 January - Added YouTube link to sidebar.
+
 ## 2020
 
 * 01 December - Composition page goes visible.
