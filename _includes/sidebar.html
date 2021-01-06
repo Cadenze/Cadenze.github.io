@@ -59,6 +59,15 @@
       </a>
     {% endif %}
 
+    {% if site.author.youtube %}
+      <a href="https://www.youtube.com/{{ site.author.youtube }}">
+        <span class="fa-stack fa-lg">
+          <!-- <i class="far fa-square fa-stack-2x"></i> -->
+          <i class="fab fa-youtube fa-stack-1x"></i>
+        </span>
+      </a>
+    {% endif %}
+
     <!--
     {% if site.author.orcid %}
       <a href="{{ site.author.orcid }}">
