@@ -18,10 +18,8 @@ Recording:
 
 *If the performers wish to take down this recording, please contact me.*
 
-<audio controls>
-    <source src="/files/music/malinconia-piano-trio.wav" type="audio/wav">
-    <source src="/files/music/malinconia-piano-trio.mp3" type="audio/mpeg">
-</audio>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cqYGFhun8jw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+</iframe>
 
 Victoria, BC, December 8, 2020
 * Violin: Marcus Coetzee
