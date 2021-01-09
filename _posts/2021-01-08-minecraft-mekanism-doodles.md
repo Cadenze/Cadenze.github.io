@@ -7,4 +7,4 @@ I was playing some modded Minecraft with my friends over the holiday, and I ende
 
 <img src="/assets/mekanism.png" alt="Mekanism Doodles" width="640" />
 
-Mekanism is fun.
+[Mekanism](https://wiki.aidancbrady.com/wiki/Main_Page) is fun.
