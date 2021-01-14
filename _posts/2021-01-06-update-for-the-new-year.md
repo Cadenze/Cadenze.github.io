@@ -7,7 +7,7 @@ Happy New Year's to those to follow this blog. I hope you are well-rested, and p
 
 ## YouTube
 
-I have made a new [YouTube channel](https://www.youtube.com/channel/UC-wRRCxbbF7wsd_10LZzUhw), hopefully posting my own performances and compositions. Nothing much has been planned for it, but please subscribe for more updates!
+I have made a new [YouTube channel](https://www.youtube.com/channel/UCj4YnKsa5NaphpexMTfu2OQ), hopefully posting my own performances and compositions. Nothing much has been planned for it, but please subscribe for more updates!
 
 ## New Year's Resolutions
 
