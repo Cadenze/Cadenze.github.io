@@ -5,6 +5,8 @@ title: Scherzo for a Legit Standard Time
 
 ### First Edition
 
+Happy birthday Marcus.
+
 Sheet music:
 
 * [Full Score](/files/music/scherzo-legit-standard-time-fullscore.pdf)
