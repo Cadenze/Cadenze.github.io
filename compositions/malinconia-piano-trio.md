@@ -18,8 +18,7 @@ Recording:
 
 *If the performers wish to take down this recording, please contact me.*
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cqYGFhun8jw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-</iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7HMcnxgKyR8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Victoria, BC, December 8, 2020
 * Violin: Marcus Coetzee
