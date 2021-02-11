@@ -23,9 +23,9 @@ If you have read this far, I am pretty sure you have realized this is posted on 
 
 Back to the main topic. Just like last year, if you want to get anything from Amazon or something for your birthday, just ask, but I have not specifically bought anything. I hope it is better this way since you will not be stuck with some junk that you have never wanted.
 
-In previous years, I would almost always be limited by the size of the card and need to hastily write a conclusion. However, now that I have unlimited space, I find it much harder to close out my thoughts. I guess I can conclude with one of my favourite sayings, “Look to the past, and see further for the future.” Do not simply look **at** the past; look **to** it, and look **through** it.
+In previous years, I would almost always be limited by the size of the card and need to hastily write a conclusion. However, now that I have unlimited space, I find it much harder to close out my thoughts. I guess I can conclude with one of my favourite sayings, “Look to the past, and see further for the future.” As we graduate from childhood, it is an opportunity for us to examine our past and take responsibility of our future.
 
-I hope you have a wonderful day, and a wonderful year ahead of you. And once again, happy birthday.
+Lastly, I hope you have a wonderful day, and a wonderful year ahead of you. And once again, happy birthday.
 
 Yours,
 
