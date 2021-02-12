@@ -31,4 +31,4 @@ Yours,
 
 Boris
 
-P.S. If what you miss about these cards is my handwriting, I have a digitally written copy. Ask and you shall receive.
+P.S. If what you miss about these cards is my handwriting, I have a [digitally written copy](/files/birthday-jessie-2021.pdf). Ask and you shall receive.
