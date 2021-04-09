@@ -49,27 +49,27 @@ We emulated the scrambled state of a cube and solved it while keeping track of t
 
 <p class="message">
 
-<img src="/assets/htm.png" alt="Half Turn Metric" width="640"/>
+<img src="/assets/cube-project/htm.png" alt="Half Turn Metric" width="640"/>
 
 Figure 1. The speeds of CFOP and Roux methods over 1 million solves, measured in half turn metric.
 
-<img src="/assets/stm.png" alt="Slice Turn Metric" width="640"/>
+<img src="/assets/cube-project/stm.png" alt="Slice Turn Metric" width="640"/>
 
 Figure 2. The speeds of CFOP and Roux methods over 1 million solves, measured in slice turn metric.
 
-<img src="/assets/ahtm.png" alt="Adjusted Half Turn Metric" width="640"/>
+<img src="/assets/cube-project/ahtm.png" alt="Adjusted Half Turn Metric" width="640"/>
 
 Figure 3. The speeds of CFOP and Roux methods over 1 million solves, measured in half turn metric with adjustment factor.
 
-<img src="/assets/astm.png" alt="Adjusted Slice Turn Metric" width="640"/>
+<img src="/assets/cube-project/astm.png" alt="Adjusted Slice Turn Metric" width="640"/>
 
 Figure 4. The speeds of CFOP and Roux methods over 1 million solves, measured in slice turn metric with adjustment factor.
 
-<img src="/assets/nrhtm.png" alt="No-Regrips Half Turn Metric" width="640"/>
+<img src="/assets/cube-project/nrhtm.png" alt="No-Regrips Half Turn Metric" width="640"/>
 
 Figure 5. The speeds of CFOP and Roux methods over 1 million solves, measured in half turn metric, omitting regrips.
 
-<img src="/assets/nrstm.png" alt="No-Regrips Slice Turn Metric" width="640"/>
+<img src="/assets/cube-project/nrstm.png" alt="No-Regrips Slice Turn Metric" width="640"/>
 
 Figure 6. The speeds of CFOP and Roux methods over 1 million solves, measured in slice turn metric, omitting regrips.
 
