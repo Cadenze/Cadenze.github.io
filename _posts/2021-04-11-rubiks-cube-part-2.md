@@ -67,6 +67,7 @@ Before a computer can solve cubes, first we need to have a cube. There are a few
             <td>1</td>
             <td>0</td>
             <td>2</td>
+        </tr>
     </tbody>
 </table>
 
