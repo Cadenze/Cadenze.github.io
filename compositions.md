@@ -7,6 +7,9 @@ This is where I'll be posting my progress in music composition. So far, this is 
 
 ## 2021
 
+* [Prelude for Two Violins](/compositions/prelude-2-violins)
+* [Twilight](/compositions/twilight)
+* [Trinity](/compositions/trinity)
 * [Passacaglia for Solo Violin](/compositions/passacaglia-violin)
 * [Scherzo for a Legit Standard Time](/compositions/scherzo-legit-standard-time)
 * [Daydream for Solo Flute](/compositions/daydream-flute)
