@@ -9,6 +9,7 @@ This changelog is manually updated.
 
 ## 2021
 
+* 06 June - Updated .gitignore to ignore VSCode workspace files.
 * 17 January - Added GitHub link to sidebar.
 * 06 January - Added YouTube link to sidebar.
 
