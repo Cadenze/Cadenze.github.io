@@ -3,6 +3,8 @@ layout: post
 title: A Satisfying Chord Progression
 ---
 
+<meta charset="UTF-8">
+
 As an enjoyer of different genres of music, I would like share with you a very satisfying chord progression that never fails to amaze me whenever I listen to it.
 
 *Note: Due to the lack of HTML support for the half-sharp/flat symbols, I will be using &frac12;&sharp; & &frac12;&flat; to denote them.*
