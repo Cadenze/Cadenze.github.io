@@ -1,6 +1,6 @@
 ---
 layout: composition
-title: Malinconia in D&flat; Major for Piano Trio
+title: Malinconia in D&9837; Major for Piano Trio
 ---
 
 A piano trio, dedicated to Marcus Coetzee, Lexie Krakowski, and Charlie Dutton; thank you all for your participation in this project, it is very difficult to find performers in times of pandemic.

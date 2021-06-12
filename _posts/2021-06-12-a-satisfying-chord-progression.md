@@ -5,7 +5,7 @@ title: A Satisfying Chord Progression
 
 As an enjoyer of different genres of music, I would like share with you a very satisfying chord progression that never fails to amaze me whenever I listen to it.
 
-*Note: Due to the lack of HTML support for the half-sharp/flat symbols, I will be using &frac12;&#9839; & &frac12;&flat; to denote them.*
+*Note: Due to the lack of HTML support for the half-sharp/flat symbols, I will be using &frac12;&#9839; & &frac12;&#9837; to denote them.*
 
 ## Some Theory
 
@@ -25,7 +25,7 @@ Western classical music currently divides the octave into 12 steps; *Gleam* here
 
 Said chord progression starts at [0:54](https://youtu.be/l9wINwlgxRU?t=54). The idea is very simple: a descending chromatic, leaving the listener wondering where the destination is, and then hitting them with a V-I to signify arrival. However, as mentioned above, with the use of 22-TET, chromatic scales can mean descending in almost quarter tones.
 
-Coupled with an ascending chromatic line above, we get a peculiar soundscape that is rarely heard: C&frac12;&#9839;min - C9(omit7) - B&frac12;&#9839;(&frac12;&#9839;9) - **B** - B&frac12;&flat;7(&#9839;9) - **E** - B&flat;7 - **A(&#9839;11)**. I have bolded the chords that follow the classical ii-V-I motion: they act as a reminder to the listener, bringing a tinge of familiarity as to not make 22-TET completely alien.
+Coupled with an ascending chromatic line above, we get a peculiar soundscape that is rarely heard: C&frac12;&#9839;min - C9(omit7) - B&frac12;&#9839;(&frac12;&#9839;9) - **B** - B&frac12;&#9837;7(&#9839;9) - **E** - B&#9837;7 - **A(&#9839;11)**. I have bolded the chords that follow the classical ii-V-I motion: they act as a reminder to the listener, bringing a tinge of familiarity as to not make 22-TET completely alien.
 
 ## Conclusion
 
