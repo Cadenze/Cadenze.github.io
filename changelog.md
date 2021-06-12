@@ -9,6 +9,7 @@ This changelog is manually updated.
 
 ## 2021
 
+* 12 June - Replaces the words "-sharp" & "-flat" with &sharp; & &flat;.
 * 06 June - Updated .gitignore to ignore VSCode workspace files.
 * 17 January - Added GitHub link to sidebar.
 * 06 January - Added YouTube link to sidebar.

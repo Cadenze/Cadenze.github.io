@@ -16,7 +16,7 @@ This is where I'll be posting my progress in music composition. So far, this is 
 
 ## 2020
 
-* [Malinconia in D-Flat Major for Piano Trio](/compositions/malinconia-piano-trio)
+* [Malinconia in D&flat; Major for Piano Trio](/compositions/malinconia-piano-trio)
 * [Fugue for Solo Piano](/compositions/12-fugue-piano)
 * [Waltz for Solo Violin](/compositions/waltz-violin)
 * [Salish Sea Sonata for Piano and Viola](/compositions/salish-sea)
