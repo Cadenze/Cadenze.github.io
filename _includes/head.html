@@ -41,8 +41,26 @@
     <meta name="msapplication-TileImage" content="/public/ms-icon-144x144.png">
     <meta name="theme-color" content="#ffffff">
 
+    <!-- MathJax for inline LaTeX rendering -->
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
+    <!-- Make it possible to use $$ to delimit inline TeX. -->
+    <!-- Shamelessly stolen from http://morganarnold.ca -->
+	<script>
+        window.MathJax = {
+            tex: {
+                inlineMath: [
+                    ['$', '$'],
+                    ['\\(', '\\)']
+                ]
+            }
+        }
+    </script>
+
     <!-- RSS -->
     <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
 
+    <!-- Font Awesome -->
     <script src="https://kit.fontawesome.com/6f94d0f435.js" crossorigin="anonymous"></script>
 </head>
