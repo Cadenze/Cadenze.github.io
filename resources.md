@@ -42,3 +42,7 @@ Covers:
 2. Capacitors and Inductors
 3. Circuits
 4. Magnetism
+
+#### [Kelp Spring Question](/files/resources/SCIE_001_PHYS_H1_4.pdf)
+
+A question that covers both 2D kinematics and energy conservation.
