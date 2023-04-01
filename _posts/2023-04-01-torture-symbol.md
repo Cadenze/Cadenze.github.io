@@ -82,7 +82,7 @@ Nevertheless, we will formally state them here.
 2. $T(cf) = cT(f)$.
 3. $f_1 \leq f_2 \implies T(f_1) \leq T(f_2)$.
 4. $T_a^b(f) = T_a^c(f) + T_c^b(f)$.
-5. $|f| \leq M \implies \left|T_a^b(f)\right| \leq M(b-a)$
+5. $\|f\| \leq M \implies \left\|T_a^b(f)\right\| \leq M(b-a)$
 
 ## The Deep Connection
 
