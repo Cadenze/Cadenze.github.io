@@ -8,7 +8,7 @@ students get an opportunity to give feedback to their instructors
 by ranking them according to several criteria,
 and also more importantly,
 write a few comments.
-Just like (last year)[/2023/06/14/ta-review-of-student-feedback-episode-1],
+Just like [last year](/2023/06/14/ta-review-of-student-feedback-episode-1),
 we are going to continue the tradition of replying to some of these comments
 that were given to me in the past two terms,
 based on how interesting or funny their responses are.
