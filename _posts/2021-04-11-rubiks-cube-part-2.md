@@ -3,11 +3,11 @@ layout: post
 title: Rubik's Cube Part 2
 ---
 
-Now that we've got an idea of what I have been doing in the past few months, let us dive deep into the process of this project, from the conception of the idea, to the [completed paper on the previous post](/2021/04/09/rubiks-cube-part-1/).
+Now that we've got an idea of what I have been doing in the past few months, let us dive deep into the process of this project, from the conception of the idea, to the [completed paper on the previous post](/2021/04/09/rubiks-cube-part-1).
 
 ## The Idea
 
-Not long after we finished our [term 1 projects](/2020/12/01/a-final-look-at-the-poincare/), we were tasked with finding a topic of research/measurement for our term 2 projects. If you have read my posts here, you would know that I spent my Christmas break playing Minecraft instead.
+Not long after we finished our [term 1 projects](/2020/12/01/a-final-look-at-the-poincare), we were tasked with finding a topic of research/measurement for our term 2 projects. If you have read my posts here, you would know that I spent my Christmas break playing Minecraft instead.
 
 About a week before we had to submit our topics for scrutiny, I sat down and realized that I had to either find a partner who already has an idea, or come up with an original one myself. Of course the former would be preferable, since I would save time by not needing to brainstorm; but after sifting through all the available proposals, it was either that I was not interested enough in the topic, or they already have found a partner.
 
@@ -113,7 +113,7 @@ L6E is slightly different. It is considered a "semi-intuitive" step, so while EO
 
 ### Scrambles
 
-While there are existing official computer program scramblers, none of them spit the scrambles out nicely in a single text file. So, I wrote a small file that generates a random length, random (with some contraints) move sequence. With that, the program can read the scrambles line by line and use the solvers that we spent so much time on.
+While there are existing official computer program scramblers, none of them spit the scrambles out nicely in a single text file. So, I wrote a small file that generates a random length, random (with some constraints) move sequence. With that, the program can read the scrambles line by line and use the solvers that we spent so much time on.
 
 ## Putting It All Together
 
