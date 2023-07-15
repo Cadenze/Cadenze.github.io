@@ -292,8 +292,6 @@ After assembling everything together,
 the final product is one such video.
 
 <!-- Video of solve -->
-<div style="width:100%;height:480px;background-color:black;text-align:center;">
-  <video style="height:100%;" controls>
-    <source src="https://lh3.googleusercontent.com/pw/AIL4fc-UM8bkob0XeEF5Q-wmETmctCpbEXEnWfb4eO2iwgSs5rIqExm2BV1d6fIb1XUJei_y09fDRHfvzImfe3rdkbTAtdZ_88TSA61I6AFHszB60mq4Yj4L=m18" type="video/mp4">
-  </video>
-</div>
+<a href="https://lh3.googleusercontent.com/pw/AIL4fc-mYH3qo96azImKBVeY2Re8-1tyEP8Trqb4LIb8LOefriuHhdsTXZmNTbmd1NU1P6JqU9UPXvRalYrsuanqQyH742x38eNHka0gAdwwJSf2aDHVtWH-=w2400?source=screenshot.guru">
+    <img src="https://lh3.googleusercontent.com/pw/AIL4fc-mYH3qo96azImKBVeY2Re8-1tyEP8Trqb4LIb8LOefriuHhdsTXZmNTbmd1NU1P6JqU9UPXvRalYrsuanqQyH742x38eNHka0gAdwwJSf2aDHVtWH-=w600-h315-p-k-no" />
+</a>
