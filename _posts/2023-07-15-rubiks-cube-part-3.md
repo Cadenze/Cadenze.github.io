@@ -292,6 +292,9 @@ After assembling everything together,
 the final product is one such video.
 
 <!-- Video of solve -->
-<a href="https://lh3.googleusercontent.com/pw/AIL4fc-mYH3qo96azImKBVeY2Re8-1tyEP8Trqb4LIb8LOefriuHhdsTXZmNTbmd1NU1P6JqU9UPXvRalYrsuanqQyH742x38eNHka0gAdwwJSf2aDHVtWH-=w2400?source=screenshot.guru">
-    <img src="https://lh3.googleusercontent.com/pw/AIL4fc-mYH3qo96azImKBVeY2Re8-1tyEP8Trqb4LIb8LOefriuHhdsTXZmNTbmd1NU1P6JqU9UPXvRalYrsuanqQyH742x38eNHka0gAdwwJSf2aDHVtWH-=w600-h315-p-k-no" />
-</a>
+<iframe width="560" height="315"
+    src="https://www.youtube.com/embed/UXMoVlhGOkk"
+    title="YouTube video player" frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+</iframe>
