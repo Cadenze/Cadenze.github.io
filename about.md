@@ -7,12 +7,12 @@ title: About
     "Look to the past, and see further for the future."
 </p>
 
-I am Boris Li, a third year Faculty of Science student at the University of British Columbia.
-I am a recent alumni of Science One,
+I am Boris Li, a recent graduate (BSc) at the University of British Columbia.
+I am an alumni of Science One,
 a comprehensive first year program
 that covers all three main branches of science plus mathematics.
-I am majoring in Combined Honours Physics and Mathematics,
-and hold a keen interest in computer science and astronomy.
+I majored in Combined Honours Physics and Mathematics,
+and hold a keen interest in computer and data science.
 
 Beside science,
 I also consider myself a musician.
