@@ -19,4 +19,4 @@ I also consider myself a musician.
 I am a violinist and a composer,
 and I sometimes like to compose and record my music in my spare time.
 I also like to dabble in other instruments,
-including but not limited to: harmonica, guitar, and viola.
+including but not limited to harmonica and viola.
