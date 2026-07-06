@@ -12,6 +12,7 @@ See below for a list of blog posts related to music.
 {% for post in tag[1] %}
 
 ## [{{ post.title }}]({{ post.url }})
+<span class="post-date">{{ post.date | date: "%-d %B %Y" }}</span>
 {{ post.excerpt }}
 [*see more...*]({{ post.url }})
 
