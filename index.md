@@ -8,9 +8,9 @@ title: Cadenze
 
 # About me
 
-Hi, I'm Boris, a PhD candidate in Pure Mathematics at the University of Waterloo,
-studying algebra and algebraic geometry,
-supervised by Drs. Jason Bell and Ben Webster.
+Hi, I'm Boris, a PhD candidate in Pure Mathematics at the University of Waterloo.
+I am studying algebra and algebraic geometry
+under Drs. Jason Bell and Ben Webster.
 I am currently working on a problem in non-commutative algebra,
 which aims to help us better understand filtered deformations over domains.
 
