@@ -19,6 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Boris Li
+author: Boris Li
 email: borisowenli@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Mathematician, Waterloo PhD candidate.
@@ -27,6 +28,8 @@ url: "https://www.cadenze.ca" # the base hostname & protocol for your site, e.g.
 logo: /assets/img/logo.png
 github_username: Cadenze
 
+paginate_path: /blog/page:num
+paginate: 5
 
 discord: "https://discord.gg/2YEpgZTxcx"
 linkedin: "https://www.linkedin.com/in/cadenze/"
@@ -36,6 +39,7 @@ remote_theme: pages-themes/minimal@v0.2.0
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
+  - jekyll-paginate
 
 # Exclude from processing.
 # The following items will not be processed, by default.
