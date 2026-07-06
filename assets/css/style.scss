@@ -1,0 +1,40 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+body {
+    background-color: #191919;
+    color:#d1d1d1;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color:#a21d66;
+}
+
+a {
+    color:#aa1e6b;
+}
+
+a:hover, a:focus {
+    color:#80124e;
+    font-weight: inherit;
+}
+
+a small {
+    color:#607079;
+}
+
+a:hover small {
+    color:#607079;
+}
+
+p strong {
+    color:#d1d1d1;
+}
+
+
+
+// link {
+//     color:#a21d66;
+// }
