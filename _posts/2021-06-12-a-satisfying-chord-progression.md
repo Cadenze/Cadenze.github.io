@@ -19,7 +19,9 @@ Another way of providing harmonic motion, or traversing the circle of fifths, is
 
 The music I want to share with you is Sevish's *Gleam*, which is an electronic piece that uses 22-tone equal temperament and a 5/4 beat.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l9wINwlgxRU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="iframe-container">
+    <iframe src="https://www.youtube.com/embed/l9wINwlgxRU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 Western classical music currently divides the octave into 12 steps; *Gleam* here divides it into 22. This allows us to get almost double the notes in an octave, with notes that can "fill in the gap" between semitones.
 

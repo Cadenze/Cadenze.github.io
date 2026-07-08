@@ -14,7 +14,9 @@ hope to better understand late Romantic harmony.
 
 ## Hindemith - 2nd String Quartet
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0a3mXVmzA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="iframe-container">
+    <iframe src="https://www.youtube.com/embed/yr0a3mXVmzA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 If i needed to demonstrate neo-classicism in a single piece,
 this would be my choice.
@@ -26,7 +28,9 @@ and instead focuses more on the particular intervals within those chords themsel
 
 ## Beethoven - Grand Fugue
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pxdPuS7HAHg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="iframe-container">
+    <iframe src="https://www.youtube.com/embed/pxdPuS7HAHg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 Compared to the Hindemith above,
 there is less harmonic craziness here,
@@ -53,7 +57,9 @@ so don't be discouraged the first time around!
 
 ## Ravel - Noble and Sentimental Waltzes
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jXhHjfHRDnk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="iframe-container">
+    <iframe src="https://www.youtube.com/embed/jXhHjfHRDnk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 In this suite of eight waltzes, constructed almost purely in triadic harmony,
 Ravel adds his own blend of impressionism and tonal ambiguity.
@@ -67,7 +73,9 @@ but usually involve a much larger emotional outburst
 
 ## Scriabin - 4th Piano Sonata
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GJ_Dj0_sR5Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="iframe-container">
+    <iframe src="https://www.youtube.com/embed/GJ_Dj0_sR5Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 As of the time of writing,
 this is my favourite piece of music that I have found this year.
@@ -82,7 +90,9 @@ often pitting 3 against 4 against 5.
 
 ## Debussy - Violin Sonata
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6p1HDpf48Tg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="iframe-container">
+    <iframe src="https://www.youtube.com/embed/6p1HDpf48Tg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 His large major composition and last performance,
 Debussy's violin sonata is a fine example of his unique composition style
@@ -93,7 +103,9 @@ as opposed to Ravel's more traditional use of melody as a driving element.
 
 ## Scriabin - 7th Piano Sonata, "White Mass"
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JE-riazUvJE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="iframe-container">
+    <iframe src="https://www.youtube.com/embed/JE-riazUvJE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 When listening to late Scriabin,
 one should throw away all they know about classical music,
@@ -120,4 +132,3 @@ We can compare this piece with the Debussy violin sonata, for its use of descrip
 One such example is how both composers like to trail off after certain gestures,
 as if they are losing, momentarily, their train of thought
 (this appears multiple times in the 1st movement of the debussy, as early as the 14th measure).
-

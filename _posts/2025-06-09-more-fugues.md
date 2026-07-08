@@ -10,7 +10,9 @@ and that I would like to share with all of you.
 
 ## Shostakovich, Prelude and Fugue in D-flat major from 24 Preludes and Fugues
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3lydTIHUvTk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="iframe-container">
+    <iframe src="https://www.youtube.com/embed/3lydTIHUvTk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 This is what I like to call the "we wish you a Merry Chri- dammit" piece.
 Of course, the prelude is interesting in its own right,
@@ -21,7 +23,9 @@ it ends very triumphantly in the home key D-flat major.
 
 ## Godowsky, Prelude and Fugue on B-A-C-H for the left hand
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5128I-Wgm3E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="iframe-container">
+    <iframe src="https://www.youtube.com/embed/5128I-Wgm3E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 Honestly, just an impressive little fugue,
 given that it is written for a single hand,
@@ -29,7 +33,9 @@ which you might not even notice if you were not told.
 
 ## Franck, Prelude, Chorale, and Fugue
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HBwURDGIY80" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="iframe-container">
+    <iframe src="https://www.youtube.com/embed/HBwURDGIY80" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 Instead of a normal prelude and fugue,
 Franck inserts a chorale in between the two,
