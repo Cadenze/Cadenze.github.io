@@ -21,4 +21,6 @@ My [curriculum vitae](files/cv.pdf) is linked here.
 
 In my free time, I like to play bridge (the card game), play the violin,
 and very occasionally compose classical music.
-Check the sidebar on the left for more information.
+Check the sidebar on the left
+(or at the top if you are on mobile)
+for more information.
